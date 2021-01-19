@@ -77,9 +77,8 @@
     </ul>
 </amp-sidebar>
 
-  <main id="content" role="main" class="main commerce-landing">
 	<xsl:copy-of select="./body/*" />
-  </main>
+	
 <footer class="commerce-footer center">
   <nav class="mx-auto md-mb0 md-pt5 md-pb5">
     <ul class="list-reset flex flex-wrap my0 md-pl4 md-pr4 md-mxn4">

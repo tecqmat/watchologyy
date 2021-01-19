@@ -13,6 +13,7 @@
   </head>
   <body>
     
+  <main id="content" role="main" class="main commerce-landing">
 <section class="commerce-hero-content-wrapper center overflow-hidden">
   <a href="product-listing.amp.html" class="text-decoration-none block">
       <amp-img class="commerce-hero-image" src="img/20190730_120658-800x787.jpg" width="800" height="787" layout="responsive" media="(min-width: 52.07rem)" alt="Hero Landing 1" noloading="">
@@ -73,5 +74,7 @@
   </div>
   </a>
 </section>
+
+  </main>
   </body>
 </page>
