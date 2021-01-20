@@ -15,7 +15,7 @@
     
   <main id="content" role="main" class="main commerce-landing">
 <section class="commerce-hero-content-wrapper center overflow-hidden">
-  <a href="product-listing.amp.html" class="text-decoration-none block">
+  <a href="#" class="text-decoration-none block">
       <amp-img class="commerce-hero-image" src="img/20190730_120658-800x787.jpg" width="800" height="787" layout="responsive" media="(min-width: 52.07rem)" alt="Hero Landing 1" noloading="">
 <div placeholder="" class="commerce-loader"></div>      </amp-img>
       <amp-img class="commerce-hero-image" src="img/20190730_120515-1080x1058.jpg" width="1080" height="1058" layout="responsive" media="(max-width: 52.06rem)" alt="Hero Landing 1" noloading="">
@@ -30,7 +30,7 @@
   </a>
 </section>
 <section class="commerce-hero-content-wrapper center overflow-hidden">
-  <a href="blog-listing.amp.html" class="text-decoration-none block">
+  <a href="#" class="text-decoration-none block">
       <amp-img class="commerce-hero-image" src="img/20190730_120945-800x781.jpg" width="800" height="781" layout="responsive" media="(max-width: 52.06rem)" alt="Hero Landing 1" noloading="">
 <div placeholder="" class="commerce-loader"></div>      </amp-img>
       <amp-img class="commerce-hero-image" src="img/20190730_121132-800x901.jpg" width="800" height="901" layout="responsive" media="(min-width: 52.07rem)" alt="Hero Landing 1" noloading="">
@@ -45,7 +45,7 @@
   </a>
 </section>
 <section class="commerce-hero-content-wrapper center overflow-hidden">
-  <a href="product-listing.amp.html" class="text-decoration-none block">
+  <a href="#" class="text-decoration-none block">
       <amp-img class="commerce-hero-image" src="img/20190730_121229-800x970.jpg" width="800" height="970" layout="responsive" media="(max-width: 52.06rem)" alt="Hero Landing 1" noloading="">
 <div placeholder="" class="commerce-loader"></div>      </amp-img>
       <amp-img class="commerce-hero-image" src="img/20190730_121254-800x786.jpg" width="800" height="786" layout="responsive" media="(min-width: 52.07rem)" alt="Hero Landing 1" noloading="">
@@ -60,7 +60,7 @@
   </a>
 </section>
 <section class="commerce-hero-content-wrapper center overflow-hidden">
-  <a href="blog-listing.amp.html" class="text-decoration-none block">
+  <a href="#" class="text-decoration-none block">
       <amp-img class="commerce-hero-image" src="img/20190730_120515-1080x1058.jpg" width="1080" height="1058" layout="responsive" media="(max-width: 52.06rem)" alt="Hero Landing 1" noloading="">
 <div placeholder="" class="commerce-loader"></div>      </amp-img>
       <amp-img class="commerce-hero-image" src="img/20190730_120515-1080x1058.jpg" width="1080" height="1058" layout="responsive" media="(min-width: 52.07rem)" alt="Hero Landing 1" noloading="">
