@@ -6,7 +6,11 @@
       <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <link rel="dns-prefetch" href="//s.w.org" />
+	<link rel="dns-prefetch" href="//s.w.org" />
+	<link rel="icon" href="https://watchologyy.com/img/cropped-FASHLUXEE-LOGO-01-32x32.png" sizes="32x32" />
+	<link rel="icon" href="https://watchologyy.com/img/cropped-FASHLUXEE-LOGO-01-192x192.png" sizes="192x192" />
+	<link rel="apple-touch-icon" href="https://watchologyy.com/img/cropped-FASHLUXEE-LOGO-01-180x180.png" />
+	<meta name="msapplication-TileImage" content="https://watchologyy.com/img/cropped-FASHLUXEE-LOGO-01-270x270.png" />
         <meta property="article:author" content="Watchologyy"/>
         <meta property="og:type" content="website"/>
 		<script async="" src="https://cdn.ampproject.org/v0.js"></script>
