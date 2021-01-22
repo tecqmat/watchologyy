@@ -53,7 +53,7 @@
           </amp-img>
           </a>
         </li>
-          <li class="ampstart-nav-item "><a class="ampstart-nav-link" href="#">Products</a></li>
+          <li class="ampstart-nav-item "><a class="ampstart-nav-link" href="https://watchologyy.com/shop">Products</a></li>
           <li class="ampstart-nav-item "><a class="ampstart-nav-link" href="#">Blog</a></li>
           <li class="ampstart-nav-item "><a class="ampstart-nav-link" href="#">Contact us</a></li>
     </ul>
