@@ -25,6 +25,10 @@
   background-color: rgba(0,0,0,0.9);
 }
 
+.slideshow-container .btn{
+  top:5%;
+}
+
 .next {
   right: 0;
   border-radius: 3px 0 0 3px;

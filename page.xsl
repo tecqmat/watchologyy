@@ -24,6 +24,21 @@
           text-transform:uppercase;
         }
 
+        .btn {
+          border: 2px solid black;
+          background-color: white;
+          color: black;
+          padding: 14px 28px;
+          font-size: 16px;
+          cursor: pointer;
+          user-select:none;
+        }
+
+        .btn:hover {
+          color: #fff;
+          background-color: rgba(0,0,0);
+        }
+
         .topnav, body footer{
           background-color: #333;
         }
@@ -46,6 +61,7 @@
           text-align: center;
           padding: 14px 16px;
           color: #bbb;
+          margin-top:5px;
         }
 
         .topnav a {
