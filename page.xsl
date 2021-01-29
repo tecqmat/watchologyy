@@ -61,7 +61,6 @@
           text-align: center;
           padding: 14px 16px;
           color: #bbb;
-          margin-top:5px;
         }
 
         .topnav a {
@@ -115,6 +114,7 @@
         }
         body table{
           margin:auto;
+          margin-bottom:5px;
         }
         body h2, body footer{
           text-align:center;
