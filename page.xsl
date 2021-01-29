@@ -16,9 +16,10 @@
         <meta property="og:type" content="website"/>
         <link rel="stylesheet" href="css/font-awesome.min.css"/>
         <style>
-        body {
+        *,html,head,body {
           margin: 0;
-          font-family: Arial, Helvetica, sans-serif;
+          font-family: calibri,sans-serif,sans;
+          text-transform:uppercase;
         }
 
         .topnav {
@@ -78,7 +79,7 @@
     <body>
     
       <div class="topnav" id="myTopnav">
-        <a href="#home">Watchologyy</a>
+        <a href="https://watchologyy.com">Watchologyy</a>
         <a href="shop">Shop</a>
         <a href="#cart">Cart</a>
         <a href="javascript:void(0);" class="icon" onclick="toggleSideBar()">
@@ -86,7 +87,7 @@
         </a>
       </div>
 
-        <xsl:copy-of select="./body/*" />
+      <xsl:copy-of select="./body/*" />
 
       <script>
       function toggleSideBar() {

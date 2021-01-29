@@ -29,6 +29,8 @@ body, html {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  --webkit-filter:grayscale(98%);
+filter:grayscale(98%);
 }
 
 /* Images used */
@@ -36,8 +38,7 @@ body, html {
 .img2 { background-image: url('img/20190730_120515-1080x1058.jpg'); }
 .img3 { background-image: url('img/20190730_120945-800x781.jpg'); }
 .img4 { background-image: url('img/20190730_121132-800x901.jpg'); }
-.img5 { background-image: url('img/20190730_121229-800x970.jpg'); }
-.img6 { background-image: url('img/20190730_121254-800x786.jpg'); }
+.img5 { background-image: url('img/20190730_121254-800x786.jpg'); }
 
 /* Position text in the middle of the page/image */
 .bg-text {
@@ -67,7 +68,6 @@ body, html {
 <div class="bg-image img3"></div>
 <div class="bg-image img4"></div>
 <div class="bg-image img5"></div>
-<div class="bg-image img6"></div>
 
 <a class="bg-text" href="shop">SHOP</a>
 

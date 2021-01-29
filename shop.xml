@@ -18,8 +18,9 @@
 
 .column {
   float: left;
-  width: 33.33%;
-  padding: 5px;
+  width: 25%;
+  padding: 2px;
+  overflow:hidden;
 }
 
 .row::after {
@@ -28,34 +29,234 @@
   display: table;
 }
 
+@media screen and (max-width: 768px) {
+  .column {
+    width: 33.33%;
+  }
+}
+
 @media screen and (max-width: 500px) {
   .column {
-    width: 100%;
+    width: 50%;
   }
+}
+
+.column img{
+--webkit-filter:grayscale(98%);
+filter:grayscale(98%);
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+* {box-sizing: border-box;}
+
+.box {
+  position: relative;
+  width: 100%;
+}
+
+.box .overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1; 
+  width: 100%;
+  transition: .5s ease;
+  opacity:0;
+  color: white;
+  font-size: 15px;
+  padding: 5px;
+  text-align: center;
+}
+
+.box:hover .overlay {
+  opacity: 1;
 }
 </style>
 
   </head>
-  <body>
-
-<div class="row">
+  <body><div class="row">
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+      <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Audemars Piguet Royal Oak Offshore Chronograph Black Dial Watch</div>
+    </div>
   </div>
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+      <a href="#"><img src="img/106496071_590968321612369_4894049313543730063_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Seamaster Planet Ocean Co-Axial Black Dial Mens Steel Watch</div>
+    </div>
   </div>
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+    <a href="#"><img src="img/106428162_275464800201328_1927078103469932063_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Speedmaster Professional Moon Co-Axial Blue Dial Watch</div>
+    </div>
   </div>
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+    <a href="#"><img src="img/106741673_774220762982435_1156046813721975054_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Audemars Piguet Royal Oak Chronograph 41mm Black Dial Steel Watch</div>
+    </div>
   </div>
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+    <a href="#"><img src="img/106856740_1548464242001083_6896405015151570303_n-450x450.gif" alt="Snow"/></a>
+      <div class="overlay">Rolex Daytona 40 mm Blue Dial Watch in Yellow gold</div>
+    </div>
   </div>
   <div class="column">
-    <a href="#"><img src="img/106997159_3338876849457123_6418197192214536734_n-450x450.jpg" alt="Snow" style="width:100%"/></a>
+    <div class="box">
+    <a href="#"><img src="img/107090769_2876704655774675_568683862721446521_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Speedmaster '57 Co-Axial Steel Chronograph 41.5mm Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/20190001891-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega – Seamaster Planet Ocean – Co-Axial Master Chronometer</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106617795_293921528323602_5837005100085300161_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Seamaster Planet Ocean Co-Axial Master Black Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106352812_323393038679912_8873666197080754828_n-1-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Planet Ocean 600 M Co-Axial Chronograph Rose gold Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106251845_3191580647546688_4510429391324967876_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Omega Seamaster Planet Ocean 600 M Co-Axial Master Chronometer</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/75196233_921126615017256_4194402708205586524_n-450x405.jpg" alt="Snow"/></a>
+      <div class="overlay">Hublot Stainless Steel Big Bang King Power Reserve Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106005237_3327884530601264_7742718880181284523_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">IWC SCHAFFHAUSEN Portuguese Automatic Chrono Black dial silver tone Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106365260_297673674615848_5323439559594983120_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Jaeger-LeCoultre Master Calendar, Rose Gold Silver Dial Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/83444377_740690306666897_3857508509060931834_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Jaeger-LeCoultre Master Calendar, Silvered dial and Arabic Numeral Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106245481_312141713493768_2501229328663493958_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex Submariner Date Yellow Gold Automatic Black Dial</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106076984_401755354117090_1538352495886340327_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex Oyster Perpetual GMT-Master "Root Beer" bezel Watch in Chocolate brown and Black tones</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106290366_266647457925486_8861249114244674002_n-450x450.gif" alt="Snow"/></a>
+      <div class="overlay">Rolex Oyster Perpetual Submariner Date Rolesor 40mm Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106242466_270927264331190_7284846425825415788_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex Cosmograph Daytona White and Gold Watch</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106228281_1170187133319917_1827742915320867635_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex Submariner Date in Yellow Gold and Blue Dial</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/106424989_190286812425319_2857646234681901031_n-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex Cosmograph Daytona – “Eye Of The Tiger” in Yellow Gold</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-3-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">FRANCK MULLER</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/BREITLING-CHRONOMAT-EVOLUTION-CALIBRE-13-REVISOINIERT-2-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">BREITLING CHRONOMAT EVOLUTION CALIBRE 13 REVISOINIERT</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-6-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">BREITLING SUPEROCEAN HERITAGE</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/Audemars-Piguet-Royal-Oak-Offshore-Diver-Chronograph-3-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Audemars Piguet Royal Oak Offshore Diver Chronograph</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/OMEGA-SEAMASTER-300-233.90.41.21.03.001-BLUE-1-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">OMEGA SEAMASTER BLUE</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/OMEGA-CONSTELLATION-123.20.38.21.02.001-ROSE-GOLD-5-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">OMEGA CONSTELLATION Rose Gold</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-1-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">OMEGA SEAMASTER PLANET OCEAN GREY</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/audemars-piguet-3-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Audemars Piguet</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/90.JPG-450x450.jpg" alt="Snow"/></a>
+      <div class="overlay">Rolex</div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="box">
+    <a href="#"><img src="img/RICHARD-MILLE-2-wide.jpg" alt="Snow"/></a>
+      <div class="overlay">RICHARD MILLE</div>
+    </div>
   </div>
 </div>
   </body>
