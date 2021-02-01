@@ -3,7 +3,7 @@
 .slideshow-container img {
   width:100%;
 }
-.slideshow-container {
+.slideshow-container, .content {
   max-width: 1000px;
   position: relative;
   margin: auto;
@@ -23,10 +23,6 @@
   border-radius: 0 3px 3px 0;
   user-select: none;
   background-color: rgba(0,0,0,0.9);
-}
-
-.content{
-  display:relative;
 }
 
 .content .btn{
