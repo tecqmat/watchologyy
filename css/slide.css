@@ -25,8 +25,12 @@
   background-color: rgba(0,0,0,0.9);
 }
 
-.slideshow-container .btn{
-  top:5%;
+.content{
+  display:relative;
+}
+
+.content .btn{
+  float:right;
 }
 
 .next {
@@ -57,4 +61,14 @@
 
 @media only screen and (max-width: 300px) {
   .prev, .next, {font-size: 11px}
+}
+
+.content table{
+  margin:auto;
+  margin-bottom:5px;
+  text-align:left;
+}
+
+.content{
+  text-align:center;
 }
