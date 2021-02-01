@@ -17,7 +17,7 @@
                 <meta property="og:type" content="website"/>
                 <link rel="stylesheet" href="css/font-awesome.min.css"/>
                 <style>
-        *,html,head,body {
+        *,html,head,body,body * {
           margin: 0;
           padding:0;
           font-family: calibri,sans-serif,sans;
@@ -110,7 +110,6 @@
         }
         #break{
           clear:both;
-          margin-top:49px;
         }
         body table{
           margin:auto;
