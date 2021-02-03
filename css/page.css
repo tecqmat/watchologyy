@@ -2569,7 +2569,7 @@ dd:after {
   display: block
 }
 
-#loftloader-wrapper .loader-section{background:#fff;opacity:.75}
+#loftloader-wrapper .loader-section{background:#fff;}
 #loftloader-wrapper.pl-frame #loader{color:#000}
 .loader-close-button{display: none;}
 
