@@ -64,7 +64,9 @@
               <label class="bold h5">INR&#32;</label><em class="bold h3"><xsl:value-of select="format-number(./details/price,'#,##,###')"/>&#47;&#45;</em>
               <a class="btn">Add to Cart</a>
               <div class="break"></div>
-              <h2>Description</h2>
+              <label class="bold h4"><xsl:value-of select="./details/short/@value"/></label>
+              <div class="break"></div>
+              <h5>Description</h5>
               <xsl:copy-of select="./details/desc/*" />
             </div>
             <footer>
