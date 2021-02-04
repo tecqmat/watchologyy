@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SPEEDMASTER PROFESSIONAL MOON CO-AXIAL BLUE DIAL WATCH"/>
+    <long value="MOVEMENT:AUTOMATIC SWISS ETA,CASE MATERIAL:STEEL,GLASS:SAPPHIRE CRYSTAL,DIAL COLOR:BLACK,DIAL SIZE:45.5 MM,BRACELET MATERIAL:STEEL,BRACELET COLOR:Steel,CLASP:FOLD CLASP,CLASP MATERIAL:STEEL,PACKAGING:WITH ORIGINAL BOX,WARRANTY:01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>55500</price>
+    <imgs>
+      <img src="img/106428162_275464800201328_1927078103469932063_n.jpg"/>
+      <img src="img/10_8ed4200f-b88f-4a24-adcc-911a14bc6f33-scaled.jpg"/>
+      <img src="img/9_5f404906-0ed8-4210-873d-493ba29c42a3-scaled.jpg"/>
+      <img src="img/8_21018821-adf1-40ee-9f6d-884ee18fb3e8-scaled.jpg"/>
+      <img src="img/6_c647f292-2019-4408-b3ae-156b66c66545_grande.jpg"/>
+      <img src="img/5_8a985e3e-c1fd-4847-9d6e-4280d7a5dcdc_grande.jpg"/>
+      <img src="img/4_c5de6ce9-80a1-42f5-ae57-4373fac8e556_grande.jpg"/>
+      <img src="img/3_c62ca21a-1e5a-4c0e-917a-e9bba39fb6bf_grande.jpg"/>
+      <img src="img/2_55d968c7-5967-4662-8533-b4ea1aa075aa_grande.jpg"/>
+      <img src="img/11_630b88b1-10bc-4457-8dab-11d6b6ce0d10-1080x720.jpg"/>
+      <img src="img/7_7ee6157e-b3fc-4eb0-8309-69e26b75a699-scaled.jpg"/>
+      <img src="img/1_8656f4ed-2756-4155-8e22-21e088205c19-1080x720.jpg"/>
+      <img src="img/106904416_764473277624798_1456075666842426866_n.jpg"/>
+      <img src="img/107045717_2679012835650989_4174677923308584505_n.jpg"/>
+      <img src="img/106370987_270661934204608_1642231238395071784_n.jpg"/>
+      <img src="img/106453743_3021830871204174_3824072800446354855_n.jpg"/>
+      <img src="img/107082876_197866298267014_3229139212729336138_n.jpg"/>
+      <img src="img/106694200_956842234761820_1319499818168557191_n.jpg"/>
+      <img src="img/106472231_3043173969053521_5863232148444249784_n.jpg"/>
+      <img src="img/106577126_411853079691892_5944707281036354181_n.jpg"/>
+      <img src="img/106505691_1178744249148205_7886183534371946921_n.jpg"/>
+      <img src="img/omega-speedmaster-moonwatch-omega-co-axial-chronog.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>Blue</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>44.25 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>THICKNESS</strong>
+            </td>
+            <td>15 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet LENGTH</strong>
+            </td>
+            <td>145 MM (80 MM / 65 MM)</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet THICKNESS</strong>
+            </td>
+            <td>4 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>LUG WIDTH</strong>
+            </td>
+            <td>21 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BUCKLE WIDTH</strong>
+            </td>
+            <td>18 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

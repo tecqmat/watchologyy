@@ -21,9 +21,7 @@
                 <meta property="article:published_time">
                   <xsl:attribute name="content"><xsl:value-of select="./details/datetime/@value"/></xsl:attribute>
                 </meta>
-                <meta name="twitter:card">
-                  <xsl:attribute name="content"><xsl:value-of select="./details/short/@value"/></xsl:attribute>
-                </meta>
+                <meta name="twitter:card" content="summary"/>
                 <meta name="twitter:title">
                   <xsl:attribute name="content"><xsl:value-of select="./details/short/@value"/></xsl:attribute>
                 </meta>
@@ -37,6 +35,7 @@
                 <meta name="msapplication-TileImage" content="https://watchologyy.com/img/cropped-FASHLUXEE-LOGO-01-270x270.png" />
                 <meta property="article:author" content="Watchologyy"/>
                 <meta property="og:type" content="product"/>
+                <xsl:copy-of select="./header/*" />
                 <link rel="stylesheet" href="https://watchologyy.com/css/font-awesome.min.css"/>
                 <link rel="stylesheet" href="https://watchologyy.com/css/loftloader.min.css"/>
                 <link rel="stylesheet" href="https://watchologyy.com/css/page.css"/>
@@ -57,14 +56,14 @@
                   <xsl:copy-of select="."/>
                 </div>
               </xsl:for-each>
-              <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
-              <a class="next" onclick="plusSlides(1)">&#10095;</a>
+              <a class="prev">&#10094;</a>
+              <a class="next">&#10095;</a>
             </div>
             <div class="content">
-              <label class="bold h5">INR&#32;</label><em class="bold h3"><xsl:value-of select="format-number(./details/price,'#,##,###')"/>&#47;&#45;</em>
+              <label class="bold h5">INR&#32;</label><em class="bold h3 price"><xsl:value-of select="format-number(./details/price,'#,##,###')"/>&#47;&#45;</em>
               <a class="btn mr1">Add to Cart</a>
               <div class="break"></div>
-              <label class="bold h4"><xsl:value-of select="./details/short/@value"/></label>
+              <label class="bold h4 short-title"><xsl:value-of select="./details/short/@value"/></label>
               <div class="break"></div>
               <h5 class="underline">Description</h5>
               <xsl:copy-of select="./details/desc/*" />
@@ -74,7 +73,7 @@
               <a href="https://fashluxee.in/" target="_blank">FASHLUXEE</a>
             </footer>
             <script type='text/javascript' src='https://watchologyy.com/js/loftloader.min.js'></script>
-            <script src="slide.js"></script>
+            <script src="js/slide.js"></script>
             <script>window.addEventListener('beforeunload',function(e){document.body.classList.remove("loaded");},false);</script>
         </body>
     </xsl:template>

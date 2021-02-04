@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SEAMASTER PLANET OCEAN CO-AXIAL BLACK DIAL MENS STEEL WATCH"/>
+    <long value="MOVEMENT:AUTOMATIC SWISS ETA,CASE MATERIAL:STEEL,GLASS:SAPPHIRE CRYSTAL,DIAL COLOR:BLACK,DIAL SIZE:45.5 MM,BRACELET MATERIAL:STEEL,BRACELET COLOR:Steel,CLASP:FOLD CLASP,CLASP MATERIAL:STEEL,PACKAGING:WITH ORIGINAL BOX,WARRANTY:01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>46500</price>
+    <imgs>
+      <img src="img/106496071_590968321612369_4894049313543730063_n.jpg"/>
+      <img src="img/107095612_322523058908952_8627792563439300405_n.jpg"/>
+      <img src="img/106478334_1080837002311418_7244309325770765963_n.jpg"/>
+      <img src="img/106774630_1723183811155088_8948693558624554267_n.jpg"/>
+      <img src="img/106398264_609786636337729_5295523805804796776_n.jpg"/>
+      <img src="img/106974407_642237869982197_407374902420964654_n.jpg"/>
+      <img src="img/106780585_644844309443063_908088434110277377_n.jpg"/>
+      <img src="img/106895034_2549157965398019_8023206204290165505_n.jpg"/>
+      <img src="img/106675155_556702745025565_4108950035361295260_n.jpg"/>
+      <img src="img/106965380_588278498727569_5615891022139853874_n.jpg"/>
+      <img src="img/106993920_284898609257963_1025526875972671252_n.jpg"/>
+      <img src="img/83340384_646124495977789_8012262218519046843_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>Black</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>45.5 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

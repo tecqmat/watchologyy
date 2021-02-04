@@ -5,6 +5,27 @@
     <xsl:template match="/page">
         <html class="no-js" lang="en">
             <head>
+                <title><xsl:value-of select="./short/@value"/></title>
+                <meta name="description">
+                  <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
+                </meta>
+                <meta property="og:title">
+                  <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
+                </meta>
+                <meta property="og:description">
+                  <xsl:attribute name="content"><xsl:value-of select="./long/@value"/></xsl:attribute>
+                </meta>
+                <meta property="article:published_time">
+                  <xsl:attribute name="content"><xsl:value-of select="./datetime/@value"/></xsl:attribute>
+                </meta>
+                <meta name="twitter:card" content="summary"/>
+                <meta name="twitter:title">
+                  <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
+                </meta>
+                <meta name="twitter:description">
+                  <xsl:attribute name="content"><xsl:value-of select="./long/@value"/></xsl:attribute>
+                </meta>
+                <xsl:copy-of select="./head/*" />
                 <meta charset="UTF-8" />
                 <meta http-equiv="x-ua-compatible" content="ie=edge"/>
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -18,7 +39,6 @@
                 <link rel="stylesheet" href="https://watchologyy.com/css/font-awesome.min.css"/>
                 <link rel="stylesheet" href="https://watchologyy.com/css/loftloader.min.css"/>
                 <link rel="stylesheet" href="https://watchologyy.com/css/page.css"/>
-                <xsl:copy-of select="./head/*" />
             </head>
         </html>
         <body class=" loftloader-lite-enabled">
