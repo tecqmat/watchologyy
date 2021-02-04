@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX DAYTONA 40 MM BLUE DIAL WATCH IN YELLOW GOLD"/>
+    <long value="ROLEX DAYTONA 40 MM BLUE DIAL WATCH IN YELLOW GOLD, MOVEMENT: AUTOMATIC SWISS ETA,CASE MATERIAL: Steel,GLASS: SAPPHIRE CRYSTAL,DIAL COLOR: BLUE,DIAL SIZE: 40MM,Bracelet MATERIAL: STEEL,Bracelet COLOR: YELLOW GOLD,CLASP: FOLD CLASP,CLASP MATERIAL: Steel,PACKAGING: WITH ORIGINAL BOX,WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>58500</price>
+    <imgs>
+      <img src="img/106856740_1548464242001083_6896405015151570303_n.gif"/>
+      <img src="img/106497937_946917375781272_4374995170433150348_n.gif"/>
+      <img src="img/106495259_910191239468551_812989923010071374_n.gif"/>
+      <img src="img/106448463_286010635970470_3346110821264219242_n.jpg"/>
+      <img src="img/106999187_712643616238471_3832196264948861363_n.jpg"/>
+      <img src="img/106354668_710559053129393_7251432817949148004_n.jpg"/>
+      <img src="img/106666654_1216553475361485_2437989393514872935_n.jpg"/>
+      <img src="img/106495036_754382228706579_2536064874986054621_n.jpg"/>
+      <img src="img/106509339_306033167199964_4084603305615267507_n.jpg"/>
+      <img src="img/106541106_274354063678557_3311277922446348232_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>40MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

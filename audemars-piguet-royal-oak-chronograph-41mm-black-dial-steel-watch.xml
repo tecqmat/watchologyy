@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="AUDEMARS PIGUET ROYAL OAK CHRONOGRAPH 41MM BLACK DIAL STEEL WATCH"/>
+    <long value="MOVEMENT:AUTOMATIC SWISS ETA,CASE MATERIAL:STEEL,GLASS:SAPPHIRE CRYSTAL,DIAL COLOR:BLACK,DIAL SIZE:41 MM,BRACELET MATERIAL:STEEL,BRACELET COLOR:Steel,CLASP:FOLD CLASP,CLASP MATERIAL:STEEL,PACKAGING:WITH ORIGINAL BOX,WARRANTY:01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>65500</price>
+    <imgs>
+      <img src="img/106741673_774220762982435_1156046813721975054_n.jpg"/>
+      <img src="img/106796232_891789024661989_7020289860536240588_n.jpg"/>
+      <img src="img/106634170_764107827462330_3071246320114878557_n.jpg"/>
+      <img src="img/75299971_576670709697873_8277600110342963959_n.jpg"/>
+      <img src="img/106984654_316982952779653_6970170335281926488_n.jpg"/>
+      <img src="img/106601751_256516512315635_1574678937361567748_n.jpg"/>
+      <img src="img/106399247_696685100877346_985689784394684944_n.jpg"/>
+      <img src="img/106913714_279677849789557_6942032423335225621_n.jpg"/>
+      <img src="img/106914186_289374978922768_5035453392555795901_n.jpg"/>
+      <img src="img/106478687_276680253581914_6159969207238715341_n.jpg"/>
+      <img src="img/107087261_282165663024607_3218859234747895516_n.jpg"/>
+      <img src="img/106427155_2782587011846824_6141944956417544913_n.jpg"/>
+      <img src="img/106676216_269028417528609_9011842211835541587_n.jpg"/>
+      <img src="img/106452978_273603467206401_3028477989793593391_n.jpg"/>
+      <img src="img/106350728_2860524617508377_6849998381577962691_n.jpg"/>
+      <img src="img/106777036_560895411462208_8214764870641769237_n.jpg"/>
+      <img src="img/106663501_717777912115184_4360941513508208492_n.jpg"/>
+      <img src="img/107089998_1195900834095486_2531762110594862514_n.jpg"/>
+      <img src="img/106530770_610808526222427_4354980163999981484_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>Black</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>41 mm</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>
