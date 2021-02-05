@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA PLANET OCEAN 600 M CO-AXIAL CHRONOGRAPH ROSE GOLD WATCH FOR MENS, Price: 52,500 INR"/>
+    <long value="OMEGA PLANET OCEAN 600 M CO-AXIAL CHRONOGRAPH ROSE GOLD WATCH FOR MENS, Price: 52,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: DEEP BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>52500</price>
+    <imgs>
+      <img src="img/106352812_323393038679912_8873666197080754828_n-1.jpg"/>
+      <img src="img/106359143_377264373253779_3951955339338482732_n-1.jpg"/>
+      <img src="img/83463808_696235634273910_1596906921008433295_n-1.jpg"/>
+      <img src="img/106457123_595580584695110_1157968124534469570_n-1.jpg"/>
+      <img src="img/84291100_699795057245251_9179995684326736591_n-1.jpg"/>
+      <img src="img/106296614_286851142670889_4106235482283018069_n-1.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>DEEP BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

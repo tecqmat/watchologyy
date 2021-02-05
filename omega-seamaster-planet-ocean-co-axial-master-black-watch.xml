@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SEAMASTER PLANET OCEAN CO-AXIAL MASTER BLACK WATCH FOR MENS, Price: 52,500 INR"/>
+    <long value="OMEGA SEAMASTER PLANET OCEAN CO-AXIAL MASTER BLACK WATCH FOR MENS, Price: 52,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, DIAL SIZE: 45.5 MM, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: DEEP BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, CASE SIZE: 45.5MM, THICKNESS: 18.87MM, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>52500</price>
+    <imgs>
+      <img src="img/106617795_293921528323602_5837005100085300161_n.jpg"/>
+      <img src="img/106390489_1557245537791247_8547315132199696188_n.jpg"/>
+      <img src="img/106186334_1006861213078106_6079862464929335067_n.jpg"/>
+      <img src="img/106530679_289061962213532_8782029381116299003_n.jpg"/>
+      <img src="img/105679000_271636957602885_2645990431479993844_n.jpg"/>
+      <img src="img/106897185_283463706230573_7274266536267927036_n.jpg"/>
+      <img src="img/106239978_1683486765137554_5907367745284848475_n.jpg"/>
+      <img src="img/106490093_1485455221633554_8274082722380367276_n.jpg"/>
+      <img src="img/106286317_274293257223071_8671018761760056442_n.jpg"/>
+      <img src="img/106337691_601524250770883_3994190884624539787_n.jpg"/>
+      <img src="img/106911587_593897331258762_7282590919150777373_n.jpg"/>
+      <img src="img/106574923_579561602752430_4662976323403301305_n.jpg"/>
+      <img src="img/106281568_1410307929176179_6543728742038504598_n.jpg"/>
+      <img src="img/106350711_294828964903873_8902032368539585846_n.jpg"/>
+      <img src="img/106499739_295120568340684_2144147867680292765_n.jpg"/>
+      <img src="img/106248925_1239768433035370_572802330847880143_n.jpg"/>
+      <img src="img/106425711_953050798527145_6679361420251837650_n.jpg"/>
+      <img src="img/106214896_737177763704581_559483893734972326_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>45.5 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>DEEP BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE SIZE</strong>
+            </td>
+            <td>45.5MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>THICKNESS</strong>
+            </td>
+            <td>18.87MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

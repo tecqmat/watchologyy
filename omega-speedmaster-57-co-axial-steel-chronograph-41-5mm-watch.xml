@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SPEEDMASTER '57 CO-AXIAL STEEL CHRONOGRAPH 41.5MM WATCH"/>
+    <long value="OMEGA SPEEDMASTER '57 CO-AXIAL STEEL CHRONOGRAPH 41.5MM WATCH, Price: INR 58500, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: Black, DIAL SIZE: 41.5 MM, Bracelet MATERIAL: Steel, Bracelet COLOR: SILVER, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>58500</price>
+    <imgs>
+      <img src="img/107090769_2876704655774675_568683862721446521_n.jpg"/>
+      <img src="img/106740183_1242054129466969_4562624102707621527_n.jpg"/>
+      <img src="img/106460707_1890990811056383_1453789203869529369_n.jpg"/>
+      <img src="img/107161088_1166575003691961_7715554270363662004_n.jpg"/>
+      <img src="img/106435395_2387886921505435_8802583736884631153_n.jpg"/>
+      <img src="img/107087187_572801170097009_6571482225325780097_n.jpg"/>
+      <img src="img/106563352_663752447550206_135647496352001258_n.jpg"/>
+      <img src="img/106483880_295488575192251_1186586089005830944_n.jpg"/>
+      <img src="img/82516896_268247074276607_6687318275903799426_n.jpg"/>
+      <img src="img/107020805_874962099662648_7114658716935191403_n.jpg"/>
+      <img src="img/106984152_2343677302606020_7523104861645929738_n.jpg"/>
+      <img src="img/106992920_1139756506401175_3483397407648461349_n.jpg"/>
+      <img src="img/106645535_651949648724741_5163809641254606898_n.jpg"/>
+      <img src="img/106444768_270193371073948_801905519622428216_n.jpg"/>
+      <img src="img/107255261_698618707368200_2402356801442190723_n.jpg"/>
+      <img src="img/106492949_688482832001514_8127672963515707989_n.jpg"/>
+      <img src="img/106717715_599935034279447_4270064016524107782_n.jpg"/>
+      <img src="img/106813916_781129139298266_2889232437314297476_n.jpg"/>
+      <img src="img/106579893_667711433780727_2465010044176230174_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>Black</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>41.5 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>SILVER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

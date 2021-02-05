@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="JAEGER-LECOULTRE MASTER CALENDAR, ROSE GOLD SILVER DIAL WATCH FOR MENS, Price: 55,500 INR"/>
+    <long value="JAEGER-LECOULTRE MASTER CALENDAR, ROSE GOLD SILVER DIAL WATCH FOR MENS, Price: 55,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: ROSE GOLD SILVER, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: BROWN, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>55500</price>
+    <imgs>
+      <img src="img/106365260_297673674615848_5323439559594983120_n.jpg"/>
+      <img src="img/106179767_703270983794877_6734438584979144296_n.jpg"/>
+      <img src="img/74664491_198873091430737_8405513941786100691_n.jpg"/>
+      <img src="img/106006192_270973287302442_1525924045317940795_n.jpg"/>
+      <img src="img/106295244_706873553485477_2518056922120474756_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>ROSE GOLD SILVER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BROWN</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

@@ -73,6 +73,7 @@
               <a href="https://fashluxee.in/" target="_blank">FASHLUXEE</a>
             </footer>
             <script type='text/javascript' src='https://watchologyy.com/js/loftloader.min.js'></script>
+            <script src="js/swipe.js"></script>
             <script src="js/slide.js"></script>
             <script>window.addEventListener('beforeunload',function(e){document.body.classList.remove("loaded");},false);</script>
         </body>

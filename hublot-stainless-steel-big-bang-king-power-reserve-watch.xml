@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="HUBLOT STAINLESS STEEL BIG BANG KING POWER RESERVE WATCH FOR MENS, Price: 85,500 INR"/>
+    <long value="HUBLOT STAINLESS STEEL BIG BANG KING POWER RESERVE WATCH FOR MENS, Price: 85,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: NAVY BLUE, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>85500</price>
+    <imgs>
+      <img src="img/75196233_921126615017256_4194402708205586524_n.jpg"/>
+      <img src="img/83865647_701536030429440_3542203843218458609_n.jpg"/>
+      <img src="img/75610903_561363901416531_6994676338277166560_n.jpg"/>
+      <img src="img/106366404_914516412365887_5480613274321150491_n.jpg"/>
+      <img src="img/106095928_627332324657812_2219482095882912296_n.jpg"/>
+      <img src="img/106014380_3099630506740831_197385791542318179_n.jpg"/>
+      <img src="img/106093960_762982807842246_8302205047465547714_n.jpg"/>
+      <img src="img/106454537_210437003547078_7097183255189719747_n.jpg"/>
+      <img src="img/106248192_980540395692110_6607178945645124677_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>NAVY BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

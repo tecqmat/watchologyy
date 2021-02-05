@@ -31,11 +31,19 @@
     });
   }
 
+  function swipeHandler(dir){
+    switch(dir){
+      case 'left':showSlides(-1);break;
+      case 'right':showSlides(1);break;
+    }
+  }
+
   document.addEventListener('DOMContentLoaded',function(){
     slides = document.querySelectorAll(".mySlides");
     showSlides(slideIndex);
     var box = document.querySelector('body');
     navSlide(document.querySelector('.prev'), -1, box, 37);
     navSlide(document.querySelector('.next'), 1, box, 39);
+    swipedetect(document.querySelector('.slideshow-container'),swipeHandler);
   });
 })(window, document);

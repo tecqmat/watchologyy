@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="IWC SCHAFFHAUSEN PORTUGUESE AUTOMATIC CHRONO BLACK DIAL SILVER TONE WATCH FOR MENS, Price: 48,500 INR"/>
+    <long value="IWC SCHAFFHAUSEN PORTUGUESE AUTOMATIC CHRONO BLACK DIAL SILVER TONE WATCH FOR MENS, Price: 48,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>48500</price>
+    <imgs>
+      <img src="img/106005237_3327884530601264_7742718880181284523_n.jpg"/>
+      <img src="img/79248956_1660829330746050_6980794264845112654_n.jpg"/>
+      <img src="img/105705066_389166495377640_8496340541751313142_n.jpg"/>
+      <img src="img/106100884_634847600573473_7413834154436965176_n.jpg"/>
+      <img src="img/105705066_1170922483260867_7833327607997126255_n.jpg"/>
+      <img src="img/73539762_554183361927581_109978175321195034_n.jpg"/>
+      <img src="img/106100398_1433425676839748_2978613465635144433_n.jpg"/>
+      <img src="img/82276428_582260095762848_4385267017445413707_n.jpg"/>
+      <img src="img/106001274_636843240249751_4161804525678715796_n.jpg"/>
+      <img src="img/106350719_567245137290784_5750882464742942214_n.jpg"/>
+      <img src="img/106244517_751035829035414_5089068429511924950_n.jpg"/>
+      <img src="img/106339222_600289184204164_8471482400412943764_n.jpg"/>
+      <img src="img/74152447_768636230577251_2131840455931957827_n.jpg"/>
+      <img src="img/83575466_214361236288340_155577681934905600_n.jpg"/>
+      <img src="img/106009197_627568847845587_6360273466472399215_n.jpg"/>
+      <img src="img/106261355_3163408813715498_5336231109811928610_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

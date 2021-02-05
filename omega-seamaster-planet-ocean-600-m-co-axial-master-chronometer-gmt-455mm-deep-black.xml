@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SEAMASTER PLANET OCEAN 600 M CO-AXIAL MASTER CHRONOMETER, Price: 47,500 INR"/>
+    <long value="OMEGA SEAMASTER PLANET OCEAN 600 M CO-AXIAL MASTER CHRONOMETER, Price: 47,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, DIAMETER: 45.5MM, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: DEEP BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>47500</price>
+    <imgs>
+      <img src="img/106251845_3191580647546688_4510429391324967876_n.jpg"/>
+      <img src="img/106692000_910682389450334_503890467627612943_n.jpg"/>
+      <img src="img/106061100_286013092518981_3852954712957277783_n.jpg"/>
+      <img src="img/78189255_3189553564399177_7018697548953672910_n.jpg"/>
+      <img src="img/106196851_207564213764230_4416661613936514940_n.jpg"/>
+      <img src="img/106395983_717255495516187_3875290274799116164_n.jpg"/>
+      <img src="img/106115027_1720409091455890_2553446599005139970_n.jpg"/>
+      <img src="img/106200822_1447593222106475_2333762617138535919_n.jpg"/>
+      <img src="img/106300411_303054230735850_4558754507978377770_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAMETER</strong>
+            </td>
+            <td>45.5MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>DEEP BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

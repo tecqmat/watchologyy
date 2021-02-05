@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA – SEAMASTER PLANET OCEAN – CO-AXIAL MASTER CHRONOMETER"/>
+    <long value="OMEGA – SEAMASTER PLANET OCEAN – CO-AXIAL MASTER CHRONOMETER, Price: 55,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: GREY, DIAL SIZE: 45 MM, Bracelet MATERIAL: Steel, Bracelet COLOR: SILVER, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>55500</price>
+    <imgs>
+      <img src="img/20190001891.jpg"/>
+      <img src="img/20190001895-1068x800.jpg"/>
+      <img src="img/20190001894-1066x800.jpg"/>
+      <img src="img/20190001893-1080x1440.jpg"/>
+      <img src="img/20190001892-1080x1445.jpg"/>
+      <img src="img/2019000189.jpg"/>
+      <img src="img/106304592_330847861242953_1017398506953331366_n.jpg"/>
+      <img src="img/106616860_737678393647093_7091224733953894802_n.jpg"/>
+      <img src="img/106552919_730328357510335_3569296248367270280_n.jpg"/>
+      <img src="img/84028891_2748614688578295_7542842494853885466_n.jpg"/>
+      <img src="img/106360967_265228288112744_368376279668280994_n.jpg"/>
+      <img src="img/106681703_266070661161839_6999051300857836853_n.jpg"/>
+      <img src="img/106296822_906434603175419_711656273427239581_n.jpg"/>
+      <img src="img/106342041_601012857287566_5626576527202451800_n.jpg"/>
+      <img src="img/106302040_3071323782954129_2680228456204080116_n.jpg"/>
+      <img src="img/106361072_2672747986336300_1431093869279346885_n.jpg"/>
+      <img src="img/106454537_2627870420802002_6824375210201328731_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>GREY</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL SIZE</strong>
+            </td>
+            <td>45 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>SILVER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>
