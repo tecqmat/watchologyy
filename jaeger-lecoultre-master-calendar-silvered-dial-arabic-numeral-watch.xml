@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="JAEGER-LECOULTRE MASTER CALENDAR, SILVERED DIAL & ARABIC NUMERAL WATCH FOR MEN, Price: 52,500 INR"/>
+    <long value="JAEGER-LECOULTRE MASTER CALENDAR, SILVERED DIAL & ARABIC NUMERAL WATCH FOR MEN, Price: 52,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: SILVERED, STRAP MATERIAL: RUBBER/ARTIFICIAL LEATHER, STRAP COLOR: BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>52500</price>
+    <imgs>
+      <img src="img/83444377_740690306666897_3857508509060931834_n.jpg"/>
+      <img src="img/83444377_740690306666897_3857508509060931834_n.jpg"/>
+      <img src="img/106480183_3056782384400065_6603292142754322921_n.jpg"/>
+      <img src="img/106480183_3056782384400065_6603292142754322921_n.jpg"/>
+      <img src="img/106480183_3056782384400065_6603292142754322921_n.jpg"/>
+      <img src="img/83194751_2604792319738655_1417848590059131889_n.jpg"/>
+      <img src="img/106503812_593260394657896_8974752512092624914_n.jpg"/>
+      <img src="img/106103480_711044693018832_2097173952163303424_n.jpg"/>
+      <img src="img/106345632_661511994462892_5902480743160519233_n.jpg"/>
+      <img src="img/106449387_1625935810920648_9091862280112841042_n.jpg"/>
+      <img src="img/106263359_759397198199245_8197225416732907733_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>SILVERED</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER/ARTIFICIAL LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>
