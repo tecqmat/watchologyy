@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="BREITLING SUPEROCEAN HERITAGE II WATCH FOR MEN, Price: 39,500 INR"/>
+    <long value="BREITLING SUPEROCEAN HERITAGE II WATCH FOR MEN, Price: 39,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: STEEL, BEZEL MATERIAL: STEEL, CASE DIAMETER: 42 MM, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLUE, STRAP MATERIAL: RUBBER, STRAP COLOR: BLUE, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>39500</price>
+    <imgs>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-6.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-1-1024x683.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-2-1024x683.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-5-1024x683.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-4-1024x683.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-7-1024x683.jpg"/>
+      <img src="img/BREITLING-SUPEROCEAN-HERITAGE-II-3-1024x683.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE DIAMETER</strong>
+            </td>
+            <td>42 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

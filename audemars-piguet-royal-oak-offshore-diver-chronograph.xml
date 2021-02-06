@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="Audemars Piguet Royal Oak Offshore Diver Chronograph WATCH FOR MEN, Price: 45,500 INR"/>
+    <long value="Audemars Piguet Royal Oak Offshore Diver Chronograph WATCH FOR MEN, Price: 45,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: STEEL, CASE DIAMETER: 42 MM, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLUE, STRAP MATERIAL: RUBBER, STRAP COLOR: BLUE, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>45500</price>
+    <imgs>
+      <img src="img/Audemars-Piguet-Royal-Oak-Offshore-Diver-Chronograph-3.jpg"/>
+      <img src="img/Audemars-Piguet-Royal-Oak-Offshore-Diver-Chronograph-2-1024x576.jpg"/>
+      <img src="img/Audemars-Piguet-Royal-Oak-Offshore-Diver-Chronograph-1-1024x576.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE DIAMETER</strong>
+            </td>
+            <td>42 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

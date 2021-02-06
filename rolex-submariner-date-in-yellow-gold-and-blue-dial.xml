@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX SUBMARINER DATE IN YELLOW GOLD AND BLUE DIAL WATCH FOR MEN, Price: 45,500 INR"/>
+    <long value="ROLEX SUBMARINER DATE IN YELLOW GOLD AND BLUE DIAL WATCH FOR MEN, Price: 45,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: YELLOW GOLD, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLUE, Bracelet MATERIAL: STEEL, Bracelet COLOR: YELLOW GOLD, CLASP: FOLD CLASP, CLASP MATERIAL: STEEL, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>45500</price>
+    <imgs>
+      <img src="img/106228281_1170187133319917_1827742915320867635_n.jpg"/>
+      <img src="img/83601937_321444558871729_4478286587323887403_n.jpg"/>
+      <img src="img/106653694_270120410918533_3588339655575783581_n.jpg"/>
+      <img src="img/75402093_1109234742804893_3221818659964222276_n.jpg"/>
+      <img src="img/106303079_266532521246779_1340263635703029851_n.jpg"/>
+      <img src="img/106389035_269527810816025_6669945730036763913_n.jpg"/>
+      <img src="img/105734582_2421073244868477_6095790584917394939_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

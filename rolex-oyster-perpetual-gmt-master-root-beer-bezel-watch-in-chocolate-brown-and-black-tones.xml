@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX OYSTER PERPETUAL GMT-MASTER 'ROOT BEER' BEZEL WATCH FOR MEN IN CHOCOLATE BROWN AND BLACK TONES, 48,500 INR"/>
+    <long value="ROLEX OYSTER PERPETUAL GMT-MASTER 'ROOT BEER' BEZEL WATCH FOR MEN IN CHOCOLATE BROWN AND BLACK TONES, 48,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: GOLD/STEEL, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, Bracelet MATERIAL: GOLD/STEEL, Bracelet COLOR: ROSE GOLD, CLASP: FOLD CLASP, CLASP MATERIAL: GOLD/STEEL, BEZEL COLOR: ROOT BEER, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>48500</price>
+    <imgs>
+      <img src="img/106076984_401755354117090_1538352495886340327_n.jpg"/>
+      <img src="img/106108690_1429298467278406_1468085859308227207_n.jpg"/>
+      <img src="img/106008098_939430276559846_6385089969711752689_n.jpg"/>
+      <img src="img/106406758_662842077778786_3057560014609087279_n.jpg"/>
+      <img src="img/106271979_296493801727186_5762628821390149341_n.jpg"/>
+      <img src="img/106369241_557754354900272_6223411383660718773_n.jpg"/>
+      <img src="img/106345099_3098120530303353_1467477102621494903_n.jpg"/>
+      <img src="img/106187886_2676618962606212_8888625693908060102_n.jpg"/>
+      <img src="img/81917264_630555951001081_7900391536145923220_n.jpg"/>
+      <img src="img/106135938_288262759251035_37907625652195003_n.jpg"/>
+      <img src="img/106346624_3301874473196892_7639797761646780927_n.jpg"/>
+      <img src="img/106115275_2693924600864274_213025881884577484_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>ROSE GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL COLOR</strong>
+            </td>
+            <td>ROOT BEER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

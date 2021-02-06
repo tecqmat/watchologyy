@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX OYSTER PERPETUAL SUBMARINER DATE ROLESOR 40MM WATCH FOR MEN, 42,500 INR"/>
+    <long value="ROLEX OYSTER PERPETUAL SUBMARINER DATE ROLESOR 40MM WATCH FOR MEN, 42,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: GOLD/STEEL, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, Bracelet MATERIAL: GOLD/STEEL, Bracelet COLOR: GOLD/STEEL, CLASP: FOLD CLASP, CLASP MATERIAL: GOLD/STEEL, BEZEL MATERIAL: CERAMIC, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>42500</price>
+    <imgs>
+      <img src="img/106290366_266647457925486_8861249114244674002_n.gif"/>
+      <img src="img/106314539_258358102118166_5694358432092722861_n.gif"/>
+      <img src="img/106282383_194693005265788_6529893115989540023_n.gif"/>
+      <img src="img/82895745_745849429311796_5998498758469406076_n.gif"/>
+      <img src="img/106294016_265399528078740_1885521648208783262_n.gif"/>
+      <img src="img/106316386_292815675417308_8534315218984850369_n.gif"/>
+      <img src="img/106270711_305022504004422_8164616817550480180_n.gif"/>
+      <img src="img/106270713_200175047944589_1319493543049832084_n.gif"/>
+      <img src="img/106270713_292531731938951_1390942290935152251_n.gif"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>CERAMIC</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

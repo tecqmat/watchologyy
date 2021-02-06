@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX SUBMARINER DATE YELLOW GOLD AUTOMATIC BLACK DIAL WATCH FOR MEN, Price: 45,500 INR"/>
+    <long value="ROLEX SUBMARINER DATE YELLOW GOLD AUTOMATIC BLACK DIAL WATCH FOR MEN, Price: 45,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: YELLOW GOLD/STEEL, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLACK, Bracelet MATERIAL: YELLOW GOLD/STEEL, Bracelet COLOR: YELLOW GOLD, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>45500</price>
+    <imgs>
+      <img src="img/106245481_312141713493768_2501229328663493958_n.jpg"/>
+      <img src="img/106470218_1638173419681178_3729305955714281231_n.jpg"/>
+      <img src="img/75474223_752912865518977_171250057907115898_n.jpg"/>
+      <img src="img/106368217_628475324684959_168291199707606214_n.jpg"/>
+      <img src="img/106239977_279028990012227_4738107136836151939_n.jpg"/>
+      <img src="img/106292995_284319816023484_4174103076154846408_n.jpg"/>
+      <img src="img/106206582_208881940266103_4143327663562806570_n.jpg"/>
+      <img src="img/106129619_687219871841342_2928418436621225100_n.jpg"/>
+      <img src="img/106450796_1234997983505085_3954315198632284112_n.jpg"/>
+      <img src="img/83692965_717688642392000_6840229010982272095_n.jpg"/>
+      <img src="img/106097657_260396508555548_7531586068054379888_n.jpg"/>
+      <img src="img/82534137_4302546253096504_1505735504807920479_n.jpg"/>
+      <img src="img/105687465_1036599733423105_2822347947981120020_n.jpg"/>
+      <img src="img/106201983_291519658873005_8188316760282711470_n.jpg"/>
+      <img src="img/106055836_1160931690929437_8229929046417504857_n.jpg"/>
+      <img src="img/105770263_261870481751344_5916446107948555234_n.jpg"/>
+      <img src="img/106392213_792035054867739_3743029638107044835_n.jpg"/>
+      <img src="img/106206574_1379739438892188_5846364931595142469_n.jpg"/>
+      <img src="img/106075108_738573523561710_2112809467175085356_n.jpg"/>
+      <img src="img/106171517_665440744312522_2895435152149001348_n.jpg"/>
+      <img src="img/106094370_288169852237325_4683015621175455334_n.jpg"/>
+      <img src="img/84250263_271280234213368_6669174514382859908_n.jpg"/>
+      <img src="img/106297439_1523906534449411_958224725149137020_n.jpg"/>
+      <img src="img/78189255_882059782315353_4265059677537550873_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>YELLOW GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>YELLOW GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SEAMASTER 300 233.90.41.21.03.001 BLUE WATCH FOR MEN, Price: 34,500 INR"/>
+    <long value="OMEGA SEAMASTER 300 233.90.41.21.03.001 BLUE WATCH FOR MEN, Price: 34,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: STEEL, MOVEMENT/CALIBER: 8400, CASE DIAMETER: 41 MM, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLUE, BEZEL MATERIAL: CERAMIC, BRACELET MATERIAL: STEEL, BRACELET COLOR: SILVER, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>34500</price>
+    <imgs>
+      <img src="img/OMEGA-SEAMASTER-300-233.90.41.21.03.001-BLUE-1.jpg"/>
+      <img src="img/OMEGA-SEAMASTER-300-233.90.41.21.03.001-BLUE-2-1024x683.jpg"/>
+      <img src="img/OMEGA-SEAMASTER-300-233.90.41.21.03.001-BLUE-3-1024x683.jpg"/>
+      <img src="img/OMEGA-SEAMASTER-300-233.90.41.21.03.001-BLUE-4-1024x683.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>MOVEMENT/CALIBER</strong>
+            </td>
+            <td>8400</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE DIAMETER</strong>
+            </td>
+            <td>41 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>CERAMIC</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BRACELET MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BRACELET COLOR</strong>
+            </td>
+            <td>SILVER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

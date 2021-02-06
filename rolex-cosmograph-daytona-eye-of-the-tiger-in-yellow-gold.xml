@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX COSMOGRAPH DAYTONA – 'EYE OF THE TIGER' IN YELLOW GOLD WATCH FOR MEN, Price: 75,500 INR"/>
+    <long value="ROLEX COSMOGRAPH DAYTONA – 'EYE OF THE TIGER' IN YELLOW GOLD WATCH FOR MEN, Price: 75,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: YELLOW GOLD, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: YELLOW, Bracelet MATERIAL: RUBBER, Bracelet COLOR: BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: STEEL, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>75500</price>
+    <imgs>
+      <img src="img/106424989_190286812425319_2857646234681901031_n.jpg"/>
+      <img src="img/106172548_1155675288133945_3588406663414605628_n.jpg"/>
+      <img src="img/106271988_549732439043630_8018913546858456076_n.jpg"/>
+      <img src="img/106202455_932293693883873_5150152262428893008_n.jpg"/>
+      <img src="img/106178002_1354203074780569_7235477333979981894_n.jpg"/>
+      <img src="img/106484595_274328970316839_2893082609301257618_n.jpg"/>
+      <img src="img/106453665_291249018915542_8111396134150923270_n.jpg"/>
+      <img src="img/106103097_731478847627475_4384889945289201341_n.jpg"/>
+      <img src="img/105856513_332345207758050_764715735878958766_n.jpg"/>
+      <img src="img/106097623_600088377378961_725015043346136637_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>YELLOW</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>RUBBER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

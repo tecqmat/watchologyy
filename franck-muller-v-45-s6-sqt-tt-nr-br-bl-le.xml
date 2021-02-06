@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="FRANCK MULLER V 45 S6 SQT TT NR BR BL LE BLACK WATCH FOR MEN, Price: 46,500 INR"/>
+    <long value="FRANCK MULLER V 45 S6 SQT TT NR BR BL LE BLACK WATCH FOR MEN, Price: 46,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: STEEL, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: BLUE/GREEN, STRAP MATERIAL: LEATHER, STRAP COLOR: BLACK, CLASP: FOLD CLASP, CLASP MATERIAL: STEEL, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>46500</price>
+    <imgs>
+      <img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-3.jpg"/>
+      <img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-1-1024x576.jpg"/>
+      <img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-2-1024x683.jpg"/>
+      <img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-4-1024x683.jpg"/>
+      <img src="img/FRANCK-MULLER-V-45-S6-SQT-TT-NR-BR-BL-LE-5.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>BLUE/GREEN</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>LEATHER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>BLACK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

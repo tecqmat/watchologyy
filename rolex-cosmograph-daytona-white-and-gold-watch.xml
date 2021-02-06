@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="ROLEX COSMOGRAPH DAYTONA WHITE AND GOLD WATCH FOR MEN, Price: 48,500 INR"/>
+    <long value="ROLEX COSMOGRAPH DAYTONA WHITE AND GOLD WATCH FOR MEN, Price: 48,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: YELLOW GOLD, GLASS: SAPPHIRE CRYSTAL, DIAL COLOR: WHITE/INDEXES, Bracelet MATERIAL: STEEL, Bracelet COLOR: YELLOW GOLD, CLASP: FOLD CLASP, CLASP MATERIAL: GOLD/STEEL, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>48500</price>
+    <imgs>
+      <img src="img/106242466_270927264331190_7284846425825415788_n.jpg"/>
+      <img src="img/106172242_278826723340157_5375951630067469185_n.jpg"/>
+      <img src="img/106228624_4072088152865250_7069425856682865439_n.jpg"/>
+      <img src="img/106368682_272254007428521_5450722394049919142_n.jpg"/>
+      <img src="img/75262055_701259990431857_5814211824813160787_n.jpg"/>
+      <img src="img/106287979_663163124540533_2510346074495043122_n.jpg"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>WHITE/INDEXES</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>YELLOW GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>GOLD/STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>
