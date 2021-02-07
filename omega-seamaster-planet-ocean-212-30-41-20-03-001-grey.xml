@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens, Price: 34,500 INR"/>
+    <long value="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens, Price: 34,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, BEZEL MATERIAL: CERAMIC, CASE MATERIAL: Steel, GLASS: SAPPHIRE CRYSTAL, MOVEMENT/CALIBER: 2500, DIAL COLOR: GREY, DIAMETER: 41 MM, BRACELET MATERIAL: STEEL, BRACELET COLOR: SILVER, CLASP: FOLD CLASP, CLASP MATERIAL: Steel, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>34500</price>
+    <imgs>
+      <img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-1.jpg" alt="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens"/>
+      <img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-2.jpg" alt="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens"/>
+      <img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-3.jpg" alt="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens"/>
+      <img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-4.jpg" alt="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens"/>
+      <img src="img/OMEGA-SEAMASTER-PLANET-OCEAN-212.30.41.20.03.001-GREY-5.jpg" alt="OMEGA SEAMASTER PLANET OCEAN 212.30.41.20.03.001 GREY WATCH For Mens"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>CERAMIC</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE CRYSTAL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>MOVEMENT/CALIBER</strong>
+            </td>
+            <td>2500</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>GREY</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAMETER</strong>
+            </td>
+            <td>41 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BRACELET MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BRACELET COLOR</strong>
+            </td>
+            <td>SILVER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

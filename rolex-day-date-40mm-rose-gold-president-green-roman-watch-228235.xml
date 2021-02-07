@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235, Price 36,500 INR"/>
+    <long value="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235, Price 36,500 INR, MOVEMENT: AUTOMATIC SWISS ETA, CASE MATERIAL: ROSE GOLD, CASE DIAMETER: 40 MM, POWER RESERVE: 70 H, WATER RESISTANCE: 10 ATM, GLASS: SAPPHIRE GLASS, DIAL COLOR: GREEN, DIAL NUMERALS: ROMAN NUMERALS, Bracelet MATERIAL: ROSE GOLD, Bracelet COLOR: PINK, CLASP: FOLD CLASP, CLASP MATERIAL: ROSE GOLD, BEZEL MATERIAL: ROSE GOLD, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>36500</price>
+    <imgs>
+      <img src="img/90.JPG.jpg" alt="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235"/>
+      <img src="img/68.JPG.jpg" alt="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235"/>
+      <img src="img/91.jpg" alt="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235"/>
+      <img src="img/100.JPG.jpg" alt="Rolex Day Date 40mm Rose Gold President Green Roman Watch 228235"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC SWISS ETA</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>ROSE GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE DIAMETER</strong>
+            </td>
+            <td>40 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>POWER RESERVE</strong>
+            </td>
+            <td>70 H</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WATER RESISTANCE</strong>
+            </td>
+            <td>10 ATM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE GLASS</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>GREEN</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL NUMERALS</strong>
+            </td>
+            <td>ROMAN NUMERALS</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet MATERIAL</strong>
+            </td>
+            <td>ROSE GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>Bracelet COLOR</strong>
+            </td>
+            <td>PINK</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP</strong>
+            </td>
+            <td>FOLD CLASP</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CLASP MATERIAL</strong>
+            </td>
+            <td>ROSE GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>ROSE GOLD</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>

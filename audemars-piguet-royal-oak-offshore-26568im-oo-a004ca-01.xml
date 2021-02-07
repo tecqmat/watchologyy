@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="product.xsl"?>
+<product>
+  <header/>
+  <details>
+    <short value="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens, Price: 58,500 INR"/>
+    <long value="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens, Price: 58,500 INR, MOVEMENT: AUTOMATIC, BEZEL MATERIAL: STEEL, CASE MATERIAL: Steel, GLASS: SAPPHIRE GLASS, MOVEMENT/CALIBER: 3126 / 3840, DIAL COLOR: GREY, DIAMETER: 41 MM, STRAP MATERIAL: RUBBER, STRAP COLOR: GREY, PACKAGING: WITH ORIGINAL BOX, WARRANTY: 01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS"/>
+    <datetime value="2019-07-23T06:17:17"/>
+    <price>58500</price>
+    <imgs>
+      <img src="img/audemars-piguet-3.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+      <img src="img/audemars-piguet-1.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+      <img src="img/audemars-piguet-2.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+      <img src="img/audemars-piguet-4.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+      <img src="img/audemars-piguet-5.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+      <img src="img/audemars-piguet-6.jpg" alt="Audemars Piguet Royal Oak Offshore 26568IM OO A004CA 01 Watch for Mens"/>
+    </imgs>
+    <desc>
+      <table>
+        <tbody>
+          <tr>
+            <td>
+              <strong>MOVEMENT</strong>
+            </td>
+            <td>AUTOMATIC</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>BEZEL MATERIAL</strong>
+            </td>
+            <td>STEEL</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>CASE MATERIAL</strong>
+            </td>
+            <td>Steel</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>GLASS</strong>
+            </td>
+            <td>SAPPHIRE GLASS</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>MOVEMENT/CALIBER</strong>
+            </td>
+            <td>3126 / 3840</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAL COLOR</strong>
+            </td>
+            <td>GREY</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>DIAMETER</strong>
+            </td>
+            <td>41 MM</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP MATERIAL</strong>
+            </td>
+            <td>RUBBER</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>STRAP COLOR</strong>
+            </td>
+            <td>GREY</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>PACKAGING</strong>
+            </td>
+            <td>WITH ORIGINAL BOX</td>
+          </tr>
+          <tr>
+            <td>
+              <strong>WARRANTY</strong>
+            </td>
+            <td>01 YEAR SERVICE WARRANTY AGAINST ANY MANUFACTURING DEFECTS</td>
+          </tr>
+        </tbody>
+      </table>
+    </desc>
+  </details>
+</product>
