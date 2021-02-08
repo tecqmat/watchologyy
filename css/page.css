@@ -2453,11 +2453,11 @@ body, html {
   background-size: cover;
 }
 
-.bg-image.img1 { background-image: url('img/20190730_120658-800x787.jpg'); }
-.bg-image.img2 { background-image: url('img/20190730_120515-1080x1058.jpg'); }
-.bg-image.img3 { background-image: url('img/20190730_120945-800x781.jpg'); }
-.bg-image.img4 { background-image: url('img/20190730_121132-800x901.jpg'); }
-.bg-image.img5 { background-image: url('img/20190730_121254-800x786.jpg'); }
+.bg-image.img1 { background-image: url('../img/20190730_120658-800x787.jpg'); }
+.bg-image.img2 { background-image: url('../img/20190730_120515-1080x1058.jpg'); }
+.bg-image.img3 { background-image: url('../img/20190730_120945-800x781.jpg'); }
+.bg-image.img4 { background-image: url('../img/20190730_121132-800x901.jpg'); }
+.bg-image.img5 { background-image: url('../img/20190730_121254-800x786.jpg'); }
 
 .bg-text {
   background-color: rgb(0,0,0);
