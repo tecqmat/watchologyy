@@ -6,6 +6,6 @@
   <datetime value="2019-07-23T06:17:17"/>
   <head/>
   <body>
-    <p class="m3">Your shopping cart is empty. Continue to <a href="shop">shop</p>.</p>
+    <p class="m3">Your shopping cart is empty. Continue to <a href="shop">shop</a>.</p>
   </body>
 </page>
