@@ -7,13 +7,19 @@
             <head>
                 <title><xsl:value-of select="./short/@value"/></title>
                 <meta name="description">
-                  <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
+                  <xsl:attribute name="content">
+                    <xsl:value-of select="./short/@value"/>
+                    <xsl:value-of select="./long/@value"/>
+                  </xsl:attribute>
                 </meta>
                 <meta property="og:title">
                   <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
                 </meta>
                 <meta property="og:description">
-                  <xsl:attribute name="content"><xsl:value-of select="./long/@value"/></xsl:attribute>
+                  <xsl:attribute name="content">
+                     <xsl:value-of select="./short/@value"/>
+                     <xsl:value-of select="./long/@value"/>
+                  </xsl:attribute>
                 </meta>
                 <meta property="article:published_time">
                   <xsl:attribute name="content"><xsl:value-of select="./datetime/@value"/></xsl:attribute>
@@ -23,7 +29,10 @@
                   <xsl:attribute name="content"><xsl:value-of select="./short/@value"/></xsl:attribute>
                 </meta>
                 <meta name="twitter:description">
-                  <xsl:attribute name="content"><xsl:value-of select="./long/@value"/></xsl:attribute>
+                  <xsl:attribute name="content">
+                     <xsl:value-of select="./short/@value"/>
+                     <xsl:value-of select="./long/@value"/>
+                  </xsl:attribute>
                 </meta>
                 <xsl:copy-of select="./head/*" />
                 <meta charset="UTF-8" />

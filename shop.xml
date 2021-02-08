@@ -7,60 +7,6 @@
     <head>
         <style>
 
-* {
-  box-sizing: border-box;
-}
-
-.column {
-  float: left;
-  width: 25%;
-  padding: 2px;
-  overflow:hidden;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-@media screen and (max-width: 768px) {
-  .column {
-    width: 33.33%;
-  }
-}
-
-@media screen and (max-width: 500px) {
-  .column {
-    width: 50%;
-  }
-}
-
-.column img{
-  display: block;
-  width: 100%;
-  height: auto;
-}
-
-* {box-sizing: border-box;}
-
-.box {
-  position: relative;
-  width: 100%;
-}
-
-.box .overlay {
-  position: absolute; 
-  bottom: 0; 
-  background: rgb(0, 0, 0);
-  background: rgba(0, 0, 0, 0.5);
-  color: #f1f1f1; 
-  width: 100%;
-  color: white;
-  font-size: 15px;
-  padding: 5px;
-  text-align: center;
-}
 
 </style>
     </head>

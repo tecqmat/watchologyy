@@ -2371,7 +2371,7 @@ dd:after {
   display: block
 }
 
-#loftloader-wrapper .loader-section{background:#fff;}
+#loftloader-wrapper .loader-section{background:#fff;opacity:0.9;}
 #loftloader-wrapper.pl-frame #loader{color:#000}
 .loader-close-button{display: none;}
 
@@ -2380,6 +2380,101 @@ dd:after {
   padding:0;
   font-family: calibri,sans-serif,sans;
   text-transform:uppercase;
+}
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 25%;
+  padding: 2px;
+  overflow:hidden;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+@media screen and (max-width: 768px) {
+  .column {
+    width: 33.33%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .column {
+    width: 50%;
+  }
+}
+
+.column img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.box {
+  position: relative;
+  width: 100%;
+}
+
+.box .overlay {
+  position: absolute; 
+  bottom: 0; 
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1; 
+  width: 100%;
+  color: white;
+  font-size: 15px;
+  padding: 5px;
+  text-align: center;
+  transition: opacity 0.7s ease-in-out;
+}
+
+.box:hover .overlay {
+  --webkit-opacity:0;
+  opacity:0;
+}
+
+.bg-image {
+  height: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-image.img1 { background-image: url('img/20190730_120658-800x787.jpg'); }
+.bg-image.img2 { background-image: url('img/20190730_120515-1080x1058.jpg'); }
+.bg-image.img3 { background-image: url('img/20190730_120945-800x781.jpg'); }
+.bg-image.img4 { background-image: url('img/20190730_121132-800x901.jpg'); }
+.bg-image.img5 { background-image: url('img/20190730_121254-800x786.jpg'); }
+
+.bg-text {
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0, 0.4);
+  color: white;
+  font-weight: bold;
+  font-size: 80px;
+  border: 10px solid #f1f1f1;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  text-decoration:none;
 }
 
 .btn {
